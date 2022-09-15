@@ -1,9 +1,9 @@
-@import "_fonts.css";
-@import "_variables.css";
-@import "_global.css";
-@import "_overall.css";
+@import url('_fonts.css');
+@import url('_variables.css');
+@import url('_global.css');
+@import url('_overall.css');
 
 /* components imports */
-@import "components/_header.css";
-@import "components/_main.css";
-@import "components/_footer.css"
+@import url('components/_header.css');
+@import url('components/_main.css');
+@import url('components/_footer.css');
