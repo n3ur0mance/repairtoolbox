@@ -1,0 +1,11 @@
+.header-wrap {
+  padding-top: 17px;
+  padding-bottom: 19px;
+}
+
+.logo__link {
+  width: 208px;
+}
+.share__item:not(:last-child) {
+  margin-right: 20px;
+}
