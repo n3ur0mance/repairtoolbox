@@ -124,7 +124,9 @@ img {
   width: 100%;
   height: 43px;
 }
-
+.share {
+  max-width: 298px;
+}
 .share__item {
   width: 125px;
   height: 20px;
